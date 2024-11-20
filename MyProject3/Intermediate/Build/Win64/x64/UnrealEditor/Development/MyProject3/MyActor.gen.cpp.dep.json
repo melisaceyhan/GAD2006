@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006\\myproject3\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject3\\uht\\myactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006\\myproject3\\intermediate\\build\\win64\\x64\\myproject3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006\\myproject3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject3\\definitions.myproject3.h",
+            "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006\\myproject3\\source\\myproject3\\myactor.h",
+            "c:\\users\\melis\\onedrive\\belgeler\\github\\gad2006\\myproject3\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject3\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

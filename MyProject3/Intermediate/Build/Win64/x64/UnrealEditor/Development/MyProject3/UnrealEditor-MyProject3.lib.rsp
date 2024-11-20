@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\MyProject3Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject3\MyActor.gen.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject3\MyProject3.init.gen.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject3\MyActor.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject3\MyProject3.cpp.obj"
+"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject3\Default.rc2.res"
+/OUT:"C:\Users\melis\OneDrive\Belgeler\GitHub\GAD2006\MyProject3\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject3\UnrealEditor-MyProject3.lib"
